@@ -1,0 +1,8 @@
+C:\dev\GithubProjects\NextLevelHL7Core\NextLevelHL7Core\bin\Debug\netcoreapp3.0\NextLevelHL7Core.deps.json
+C:\dev\GithubProjects\NextLevelHL7Core\NextLevelHL7Core\bin\Debug\netcoreapp3.0\NextLevelHL7Core.dll
+C:\dev\GithubProjects\NextLevelHL7Core\NextLevelHL7Core\bin\Debug\netcoreapp3.0\NextLevelHL7Core.pdb
+C:\dev\GithubProjects\NextLevelHL7Core\NextLevelHL7Core\obj\Debug\netcoreapp3.0\NextLevelHL7Core.csprojAssemblyReference.cache
+C:\dev\GithubProjects\NextLevelHL7Core\NextLevelHL7Core\obj\Debug\netcoreapp3.0\NextLevelHL7Core.AssemblyInfoInputs.cache
+C:\dev\GithubProjects\NextLevelHL7Core\NextLevelHL7Core\obj\Debug\netcoreapp3.0\NextLevelHL7Core.AssemblyInfo.cs
+C:\dev\GithubProjects\NextLevelHL7Core\NextLevelHL7Core\obj\Debug\netcoreapp3.0\NextLevelHL7Core.dll
+C:\dev\GithubProjects\NextLevelHL7Core\NextLevelHL7Core\obj\Debug\netcoreapp3.0\NextLevelHL7Core.pdb
